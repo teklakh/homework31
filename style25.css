@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.span1, .span2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+    padding: 13px;
+}
+
+.box1{
+    width: 348px;
+    height: 70px;
+}
+
+.box3{
+    width: 204px;
+}
+
+.box5{
+    border-radius: 10px;
+}
